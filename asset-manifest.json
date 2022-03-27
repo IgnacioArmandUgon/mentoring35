@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mentoring35/static/css/main.af8f73d3.chunk.css",
-    "main.js": "/mentoring35/static/js/main.d61053c8.chunk.js",
-    "main.js.map": "/mentoring35/static/js/main.d61053c8.chunk.js.map",
-    "runtime-main.js": "/mentoring35/static/js/runtime-main.6711dce0.js",
-    "runtime-main.js.map": "/mentoring35/static/js/runtime-main.6711dce0.js.map",
-    "static/js/2.aeb80595.chunk.js": "/mentoring35/static/js/2.aeb80595.chunk.js",
-    "static/js/2.aeb80595.chunk.js.map": "/mentoring35/static/js/2.aeb80595.chunk.js.map",
-    "index.html": "/mentoring35/index.html",
-    "static/css/main.af8f73d3.chunk.css.map": "/mentoring35/static/css/main.af8f73d3.chunk.css.map",
-    "static/js/2.aeb80595.chunk.js.LICENSE.txt": "/mentoring35/static/js/2.aeb80595.chunk.js.LICENSE.txt"
+    "main.css": "/mentoring35/front/static/css/main.af8f73d3.chunk.css",
+    "main.js": "/mentoring35/front/static/js/main.d61053c8.chunk.js",
+    "main.js.map": "/mentoring35/front/static/js/main.d61053c8.chunk.js.map",
+    "runtime-main.js": "/mentoring35/front/static/js/runtime-main.9cc9b705.js",
+    "runtime-main.js.map": "/mentoring35/front/static/js/runtime-main.9cc9b705.js.map",
+    "static/js/2.aeb80595.chunk.js": "/mentoring35/front/static/js/2.aeb80595.chunk.js",
+    "static/js/2.aeb80595.chunk.js.map": "/mentoring35/front/static/js/2.aeb80595.chunk.js.map",
+    "index.html": "/mentoring35/front/index.html",
+    "static/css/main.af8f73d3.chunk.css.map": "/mentoring35/front/static/css/main.af8f73d3.chunk.css.map",
+    "static/js/2.aeb80595.chunk.js.LICENSE.txt": "/mentoring35/front/static/js/2.aeb80595.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6711dce0.js",
+    "static/js/runtime-main.9cc9b705.js",
     "static/js/2.aeb80595.chunk.js",
     "static/css/main.af8f73d3.chunk.css",
     "static/js/main.d61053c8.chunk.js"
