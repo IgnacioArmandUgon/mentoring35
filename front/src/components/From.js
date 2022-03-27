@@ -13,7 +13,7 @@ const From = (props) => {// component stateless
             <h3 className='subtitulo'>Introduce los parametros</h3>
             <ol>
                 <li>
-                <label className='formLabel' htmlFor='amount'>Cantidad de numeros:</label>
+                <label className='formLabel' htmlFor='amount'>Cantidad de numeros: </label>
             <input className='formInput' name='amount' id='amount' onChange={(event) => setState({...state, [event.target.id]: event.target.value})}/>
                 </li>
                 <li>
