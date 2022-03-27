@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: rgb(41, 35, 35);
+    height: 100vh;
+}
+
+.titulo {
+    text-align: center;
+    padding: 1em;
+    color: aliceblue;
+}
+
+.subtitulo {
+    padding: 1em;
+    color: aliceblue;
+}
+
+.form {
+    text-align: center;
+}
+
+.formLabel {
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.formInput {
+    background-color: rgb(154, 197, 197);
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    width: 70px;
+}
+
+.boton {
+    padding: 1em;
+    border-radius: 10px;
+    font-weight: bolder;
+    color: rgba(0, 0, 0, 0.734);
+}
+
+.contenedorNumeros {
+    font-size: 25px;
+    margin: 1em;
+}
